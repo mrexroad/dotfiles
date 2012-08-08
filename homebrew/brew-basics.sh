@@ -13,6 +13,11 @@ brew upgrade
 brew doctor
 
 # install interesting things
+brew install ack 
+brew install ctags 
+brew install git 
+brew install hub 
+brew install macvim
 brew install autoconf
 brew install automake
 brew install fuse4x
@@ -23,7 +28,6 @@ brew install macvim
 brew install pkg-config
 brew install readline
 brew install sqlite
-brew install git
 brew install node
 brew install phantomjs
 brew install rename
