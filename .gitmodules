@@ -329,3 +329,33 @@
 [submodule "vim/bundle/vim-scripts-SearchComplete"]
 	path = vim/bundle/vim-scripts-SearchComplete
 	url = https://github.com/vim-scripts/SearchComplete.git
+[submodule "vim/bundle/digitaltoad-vim-jade"]
+	path = vim/bundle/digitaltoad-vim-jade
+	url = https://github.com/digitaltoad/vim-jade
+[submodule "vim/bundle/pangloss-vim-javascript"]
+	path = vim/bundle/pangloss-vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "vim/bundle/hallettj-jslint"]
+	path = vim/bundle/hallettj-jslint
+	url = https://github.com/hallettj/jslint.vim
+[submodule "vim/bundle/joestelmach-lint"]
+	path = vim/bundle/joestelmach-lint
+	url = https://github.com/joestelmach/lint.vim
+[submodule "vim/bundle/hail2u-vim-css3-syntax"]
+	path = vim/bundle/hail2u-vim-css3-syntax
+	url = https://github.com/hail2u/vim-css3-syntax
+[submodule "vim/bundle/skammer-vim-css-color"]
+	path = vim/bundle/skammer-vim-css-color
+	url = https://github.com/skammer/vim-css-color
+[submodule "vim/bundle/leshill-vim-json"]
+	path = vim/bundle/leshill-vim-json
+	url = https://github.com/leshill/vim-json
+[submodule "vim/bundle/tpope-vim-markdown"]
+	path = vim/bundle/tpope-vim-markdown
+	url = https://github.com/tpope/vim-markdown
+[submodule "vim/bundle/guileen-vim-node"]
+	path = vim/bundle/guileen-vim-node
+	url = https://github.com/guileen/vim-node
+[submodule "vim/bundle/scrooloose-nerdcommenter"]
+	path = vim/bundle/scrooloose-nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
