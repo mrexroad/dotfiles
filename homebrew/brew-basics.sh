@@ -53,3 +53,6 @@ curl -L https://get.rvm.io | bash -s stable --ruby
 source $HOME/.rvm/scripts/rvm
 rvm get head
 gem install bundlr
+
+# link yadr's customizations to yours in dropbox
+ln -s ~/Dropbox/code/zsh ~/.yadr/custom/zsh
