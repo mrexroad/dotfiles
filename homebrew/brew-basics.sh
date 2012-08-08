@@ -32,6 +32,8 @@ brew install node
 brew install phantomjs
 brew install rename
 brew install tree
+brew install fasd
+brew install autojump
 brew install python --framework --universal
 easy_install pip
 pip install virutalenv
@@ -48,6 +50,6 @@ brew cleanup
 
 # install rvm / bundlr 
 curl -L https://get.rvm.io | bash -s stable --ruby
+source $HOME/.rvm/scripts/rvm
 rvm get head
-rvm install 1.9.3-head
 gem install bundlr
